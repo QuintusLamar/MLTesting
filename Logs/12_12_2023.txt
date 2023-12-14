@@ -1,0 +1,10 @@
+I have created the ui and server folders and initialized the logs folder. 
+
+I'm not really sure what I am going to build, but I want to create something that can utilize an ML model and return
+results using api calls specifically. 
+
+This is going to be a process of learning and it will hopefully give me lots to show for it.
+
+My intention for this project is, for every day I work, I have a push to the github repo and a new log file to accompany it.
+I will probably make a dashboard where I can select any number of pages and each page will implement a new kind of ML model.
+We'll see where I go from there.
